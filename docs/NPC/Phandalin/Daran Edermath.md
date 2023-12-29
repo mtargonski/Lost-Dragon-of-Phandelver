@@ -1,0 +1,3 @@
+1. Daran Edermath - to starszy mężczyzna z siwymi włosami i krótką, siwą brodą. Ma niebieskie oczy i nosi skórzaną zbroję. Daran mieszka w małym domu na obrzeżach miasta.
+2. Daran jest mądrym i doświadczonym wojownikiem, który może pomóc wam w walce z wrogami.
+3.  Daran Edermath - to starszy człowiek, który prowadzi lokalny oddział Harpers - organizacji, która zajmuje się walką z nieprawością i ochroną ludzi. 

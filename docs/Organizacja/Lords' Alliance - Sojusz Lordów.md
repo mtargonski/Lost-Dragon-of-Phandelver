@@ -1,0 +1,2 @@
+ grupa sojuszników politycznych, skoncentrowanych na wzajemnej pomocy, bezpieczeństwie i rozwoju.
+Członkowie zakonu zapewniają bezpieczeństwo w miastach i osadach poprzez proaktywne działania eliminujące zagrożenia za wszelką cenę, jednocześnie przynosząc część i chwałę swoim przywódcom i ojczyznom.

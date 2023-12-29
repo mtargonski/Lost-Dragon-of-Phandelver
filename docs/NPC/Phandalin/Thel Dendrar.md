@@ -1,0 +1,1 @@
+"Dekadzień temu [[Thel Dendrar]] miejscowy snycerz, postawił sie [[Zbiry z Czerwonych Ostrzy]] kiedy bandyci przyszli do jego sklepu i łypali łakomie na jego żonę. Dranie zamordowali go za to. Widziało to kilku miejscowych. Czerwone ostrza zabrały jego ciało, a teraz przepadli również jego zona, córka i syn"

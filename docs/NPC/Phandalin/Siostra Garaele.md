@@ -1,0 +1,13 @@
+Siostra Garaele to piękna i tajemnicza elfka, która pełni funkcję kapłanki w lokalnym kościele poświęconym bogu Tymorze. Ma ona długie, białe włosy, błękitne oczy i wytatuowany na skroni symbol boga Tymora. Ubrana jest w szatę, która ukrywa jej smukłe ciało i nadaje jej wyjątkowego uroku.
+
+Siostra Garaele jest bardzo cicha i tajemnicza, ale też bardzo mądra i opanowana. Jest znana z tego, że potrafi przepowiedzieć przyszłość i udzielać rad, które często okazują się trafne. Wielu mieszkańców Phandalin zwraca się do niej z prośbą o radę lub pomoc w różnych kwestiach, a ona zawsze stara się pomóc, w miarę swoich możliwości.
+
+Siostra Garaele zna się również na magii i potrafi rzucać zaklęcia. Ma szczególne zainteresowanie zaginioną kopalnią, ponieważ wierzy, że w kopalni ukryta jest potężna broń, która może pomóc w ochronie miasta przed złymi siłami. Warto dodać, że jej relacje z mieszkańcami Phandalin nie są najłatwiejsze, ponieważ wielu uważa ją za podejrzaną i zastanawia się, co tak naprawdę ukrywa.
+
+
+Pobożna młoda elfka, która traci już nadzieje na pozbycie się [[Zbiry z Czerwonych Ostrzy]]. Ostatnio przełożeni powierzyli jej delikatna misję. Chcą, aby przekonała [[Banshee Agata]] do odpowiedzi na pytanie o pewną ksiege czarów, szukałaAgaty w jej kryjówce, ale istota sie jej nie ukazała. Garaele pragnie odnaleźc mediatora, który zaniósłby [[Banshee Agata]] odpowiedni podarunek - inkrustowany klejnotami srebrny grzebień - i przekona stwora do podzielenia się wiedzą dotyczącą położenia ksiegi czarów należącej niegdyś do legendarnego maga o imieniu Bowgentle. Siostra Garaele jest przekonana, ze ten kto połechce próznośc Agaty, zdoła wymienić grzebień za informacje. Elfka powierzy tez postaciom miksture leczenia z góry i 3 kolejne po ukończeniu zadania [[Konszachty z Banshee]]
+
+
+Tatuaż na skroni Siostry Garaele przedstawia symbol boga Tymora, który składa się z dwóch złotych monet ułożonych poziomo jeden na drugim, z krzyżującymi się gałęziami winorośli i gałązką oliwną umieszczonymi w centrum monet. Tatuaż ten symbolizuje bogactwo, dobry los i sukces, które są ściśle związane z kultem Tymora. Całość jest bardzo precyzyjnie wykonana i wyraźna, co świadczy o umiejętności artystycznej osoby, która wykonała ten tatuaż.
+
+Tymor to bóg szczęścia i dobrego losu, znany również jako "Szczęściarz" lub "Kaprysny Los". Jego kult jest popularny wśród podróżników, hazardzistów i kupców, którzy ufają, że bóg będzie nimi opiekował się w trakcie ich wędrówek. Dlatego tatuaż z symbolem Tymora jest dla wielu ludzi nie tylko ozdobą, ale też amuletem, który ma chronić ich przed niebezpieczeństwami i przynosić im szczęście.

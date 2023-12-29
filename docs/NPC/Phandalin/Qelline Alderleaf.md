@@ -1,0 +1,2 @@
+1.  Qelline Alderleaf - to starsza kobieta o krągłej twarzy i siwych włosach, często splecionych w kok. Ma brązowe oczy i zwykle nosi prosty, lniany strój. Qelline mieszka w małym domu na swojej farmie, niedaleko miasta.
+2.  Qelline Alderleaf - prowadzi małą farmę w pobliżu miasta. Qelline jest przyjaznym i gościnnym człowiekiem, który chętnie podzieli się z wami informacjami na temat okolicy i tajemniczej osoby, która ostatnio pojawiła się w miasteczku.

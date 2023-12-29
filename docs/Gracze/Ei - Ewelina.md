@@ -1,0 +1,1 @@
+Jak była mała, gobliny ja porwali

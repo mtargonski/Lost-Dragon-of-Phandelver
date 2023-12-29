@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "67a08989a4c53eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cda3bc10107d0547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68702025cdff61f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miejsca/Cragmaw hideout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77edc6dee8c0f5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7b4aa101761e850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a7ab030b0a763a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68ca3921d332ce95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d7df0c70d93a583",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "9fee3636c73dfd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "41eb8a4ebfbf3880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7173f2436a3397b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Miejsca/Cragmaw hideout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cc5685091fd2000",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Miejsca/Cragmaw hideout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9acf6881d1a630d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a388a5007f36d31a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Miejsca/Cragmaw hideout.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68702025cdff61f9",
+  "lastOpenFiles": [
+    "Gracze/Yola - Ewa.md",
+    "Miejsca/Cragmaw hideout.md",
+    "Sesje/Sesja 2.md",
+    "Iliyanbruen.md",
+    "Sesje/Sesja 1 - 14.01.2023.md",
+    "Sesje/Sesja 0 - 14.01.2023.md",
+    "Monsters/Goblin.md",
+    "Organizacja/Cragmaw/Cragmaw - plemie.md",
+    "Miejsca/Phandalin/Phandalin.md",
+    "Magiczne przedmioty/Wand of Eldritch Blast.md"
+  ]
+}

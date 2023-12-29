@@ -1,0 +1,2 @@
+1.  Barthen - to starszy mężczyzna o owalnej twarzy i krótkiej, siwej brodzie. Ma brązowe oczy i zwykle nosi skórzaną marynarkę. Barthen mieszka w dużym domu poza centrum miasta, niedaleko swojego sklepu.
+2. Barthen - jest to właściciel sklepu z zaopatrzeniem [[Artykuły Barthena]] w Phandalin. Barthen jest przyjaznym i cierpliwym człowiekiem, który chętnie udzieli wam informacji na temat miasta i jego mieszkańców.
