@@ -1,3 +1,4 @@
+## Indigo Sanctum
 W czasach wydobycia duergarów Indygo Sanktuarium Spoczynku Zorzuli służyło jako święta sala.  Ukryte głęboko w zakamarkach góry, Indygo Sanctum było miejscem odpoczynku, odmłodzenia i bezpieczeństwa zarówno dla duergarów, jak i ich sojuszników.
 
  Jednakże, gdy łupieżcy umysłów podbili placówkę górniczą, wypaczyli sanktuarium dla własnych złych zamiarów.  To, co kiedyś było błogosławioną salą, stało się domem dla starszego mózgu kolonii.  Długo po tym, jak łupieżcy umysłów opuścili placówkę wydobywczą, psioniczne pozostałości ich obecności nadal przylegają do sanktuarium jak choroba.
@@ -8,7 +9,7 @@ W czasach wydobycia duergarów Indygo Sanktuarium Spoczynku Zorzuli służyło j
 
  Teraz Ruxithid medytuje w swoim sanktuarium, komunikując się ze swoimi potężnymi psychicznymi władcami, planując kolejne etapy swojej misji.
 
-Wejście do Sanktuarium
+### Wejście do Sanktuarium
  Kiedy postacie wchodzą do sanktuarium, przeczytaj lub sparafrazuj następujące słowa:
 
  >>Drzwi windy otwierają się, odsłaniając masywne sanktuarium zbudowane z obsydianu.  Dwa wodospady lawy spływają po obu stronach wejścia do sanktuarium, rzucając niesamowite światło na sklepiony sufit.  Na drugim końcu sanktuarium wznosi się wysoki posąg krasnoludki.  Na jej ramionach pojawiają się pęknięcia, połowa twarzy jest rozbita, ale pozostał słaby obraz życzliwego uśmiechu.
@@ -19,13 +20,13 @@ Ruxithid Wybraniec stoi na antresoli za posągiem.  Kiedy bohaterowie konfrontuj
 
 >> Ta postać goblinoida jest wyższa i szersza niż inne gobliny, które spotkałeś, a sękaty kryształ rozciął jej czaszkę, odsłaniając mózg.  Odwraca się, a jego oczy i żyły świecą nieziemską zielenią i przywołuje cię.
 
-Ruxithid the Chosen
+### Ruxithid the Chosen
 The goblin standing on the sanctum mezzanine is Ruxithid the Chosen (see the accompanying stat block). Ruxithid’s psionic abilities afford him a measure of rudimentary clairvoyance around the outpost, and thus the goblin leader is already aware of the characters’ presence before they arrive.
 
 Ruxithid mówi nienaturalnie spokojnym, śpiewnym głosem.  Na początku stara się być serdeczny w stosunku do bohaterów.  Nieświadomy, że jego „potężni bogowie” tak naprawdę są łupieżcami umysłów, Ruxithid wyjaśnia, że ​​jest boskim zwiastunem i że jego poszukiwanie tych odłamków ma na celu doprowadzenie do metamorfozy Planu Materialnego.  Jednakże każda postać, której powiedzie się test Mądrości (Wnikliwości) o ST 16, zauważa dziwny sposób, w jaki oczy Ruxithida wracają do głowy, gdy mówi: wymowny znak, że goblin prowadzi w jego umyśle drugą rozmowę i że słowa, które wypowiada,  mówi nie do końca jego własny.
 
 
-Rozgrywka w Sanktuarium
+### Rozgrywka w Sanktuarium
  Jeśli postacie nie wykazują żadnych oznak przyłączenia się do Ruxithida lub jeśli którakolwiek z nich grozi przemocą, Ruxithid staje się wrogi.  Przeczytaj lub sparafrazuj następujący tekst:
 
  >>Zielone światło pulsuje z piersi Ruxithida i pędzi w stronę masywnego posągu krasnoluda.  Niczym pasożyt, światło wnika w roztrzaskaną twarz posągu i sączy się przez jej pęknięcia.  Posąg rzuca się do przodu, wciąż się uśmiechając, podczas gdy Ruxithid rozkazuje mu cię zabić.
@@ -74,7 +75,7 @@ Pokój zakładników.  Gobliny wykorzystywały zachodnie skrzydło sanktuarium d
  Bez niegodziwego przywódcy, który je popycha, gobliny są spokojne i ciekawskie, a nawet złośliwe.  To od bohaterów zależy, jak chcą poradzić sobie z goblinami Sawplee.  Mieszkańcy Phandalin nie lubią goblinów, ale bohaterowie mogą zawrzeć łatwy pokój, jeśli chcą, aby zakończyły się działania wojenne między Sawpleesami a mieszkańcami miasta.
 
 
-Co dalej?
+### Co dalej?
  Po pokonaniu Ruxithida i dowiedzeniu się, że w grze biorą udział większe i bardziej złowrogie siły, bohaterowie powinni zdać sobie sprawę, że Phandalin jest w niebezpieczeństwie.  Prawdopodobnie będą chcieli wrócić do Phandalin, aby odpocząć i zaplanować kolejne ruchy.  Jeśli gracze będą potrzebować szturchnięcia w tym kierunku, przypomnij im, że ofiary porwań w sanktuarium potrzebują jak najszybciej pożywienia i pomocy medycznej.  Ci, którzy przeżyli, mogą nie być wystarczająco silni, aby sami wyruszyć w podróż do Phandalin, co będzie wymagało od postaci eskortowania ich do miasta.  Po powrocie do Phandalin Harbin płaci bohaterom uzgodnioną kwotę i serdecznie im dziękuje za pomoc.
 
  Niezależnie od wyborów bohaterów dokonanych w tej części przygody, gobliny dostarczyły już łupieżcom umysłów cztery odłamki obelisków z Phandalina.  Przygoda staje się teraz wyścigiem z czasem, aby znaleźć pozostałe trzy odłamki.
