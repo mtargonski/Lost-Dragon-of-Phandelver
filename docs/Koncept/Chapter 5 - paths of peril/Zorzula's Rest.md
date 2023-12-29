@@ -1,4 +1,4 @@
-### ODPOCZYNEK ZORZULI
+## ODPOCZYNEK ZORZULI
 
 Odpoczynek Zorzuli to starożytna placówka górnicza duergarów zlokalizowana w jednej z Gór Mieczy na wschód od Phandalin. Znaczenie tej nazwy zostało zapomniane, chociaż niektóre podręczniki historyczne wspominają o potężnym przywódcy duergarów imieniem Zorzula, który dowodził operacjami wydobywczymi w Górach Mieczy. Jednakże kontrola duergarów nad placówką ustała wieki temu, kiedy Spoczynek Zorzuli został przejęty przez łupieżców umysłów.
 
@@ -10,7 +10,7 @@ Wysiłkiem tym kieruje goblin imieniem Ruxithid Wybraniec, który otrzymuje rozk
 
 Oprócz odzyskania odłamków obelisku netherskiego, Ruxithid i jego gobliny mają także za zadanie zbierać ofiary dla swoich bogów w postaci mieszkańców miasta Phandalin. Niektóre z tych ofiar porwań znajdują się w głębszych częściach Podmroku (patrz dalsze rozdziały), chociaż kilka jest przetrzymywanych w głębi placówki.
 
-#### Zbliżanie się do placówki
+### Zbliżanie się do placówki
 
 Gdy bohaterowie dowiedzą się o lokalizacji Spoczynku Zorzuli od Gwyn Oresong, podróż do placówki będzie łatwa. Odpoczynek Zorzuli to dzień drogi z Phandalin. Kiedy postacie zbliżą się do placówki, przeczytaj lub sparafrazuj poniższe zdanie:
 
@@ -20,7 +20,7 @@ Gdy bohaterowie dowiedzą się o lokalizacji Spoczynku Zorzuli od Gwyn Oresong, 
 
 Odpoczynek Zorzuli, pokazany na mapie 5.5, mieści się w masywnej górze. Istnieją trzy potencjalne punkty wejścia do Zacisza Zorzuli: drzwi (obszar Z1), ujście gorących źródeł (obszar Z6) lub tunel spiżarni (obszar Z9). Postać może odkryć źródło i tunel spiżarni, przeprowadzając zwiad po okolicy i pomyślnie wykonując test Mądrości (Percepcja) o ST 16. Bohaterowie mogą również wiedzieć o wejściu do tunelu spiżarni podczas dochodzeń w Phandalin.
 
-CECHY ODPOCZYNKU ZORZULI
+### CECHY ODPOCZYNKU ZORZULI
 
 Zorzula's Rest ma następujące elementy cechy godne uwagi.
 
@@ -40,8 +40,8 @@ OŚWIETLENIE
 
 Geometryczne rowki są wyryte w suficie i ścianach placówki. Rowki umożliwiają przepływ lawy i oświetlanie wnętrza placówki przyćmionym niebieskim światłem. O ile nie zaznaczono inaczej, tunele górnicze są ciemne.
 
-​￼￼￼Lokacje Odpoczynku Zorzuli
-​￼￼￼Z1 wejscie
+### Lokacje Odpoczynku Zorzuli
+​#### Z1 wejscie
 >￼>￼ Wysokie kamienne podwójne drzwi przed tobą są wolne od ozdób. Wejście strzegą dwie szczeliny strzałkowe, po jednej z każdej strony drzwi i każda na wysokości około 3 metrów nad ziemią
 
 Drzwi są zamknięte, ale nie na klucz. Są za ciężkie żeby otworzyć, chyba że okoly 1 minuty albo jakimś zaklęciem. 
@@ -51,12 +51,12 @@ Szczeliny strzałkowe. Dwóch goblińskich dowódców psi (patrz dodatek A) znaj
 
 Gobliny są ostrożne w stosunku do obcych, ale łatwowierne i mają do Ruxithida żal za to, że postawił je na straży. Postać może przekonać gobliny do otwarcia drzwi albo udanym testem Charyzmy (Oszustwo lub Perswazja) o ST 15, albo łapówką o wartości co najmniej 25 sz. Jeśli bohaterowie grożą przemocą, gobliny atakują. Trzy rundy później przybywają posiłki z obszaru Z3.
 
-​￼￼￼Z2 przedsionek
+​#### Z2 przedsionek
 >￼>￼ Przyćmione niebieskie światło oświetla wilgotne wnętrze placówki, gdy wzdłuż północnych ścian tego obszaru wznoszą się spiralne schody. Z daleka słychać cichy odgłos rozmów i brzęku naczyń o naczynia.
 
 Po obu stronach drzwi znajdują się cienkie kręcone schody, które wznoszą się do jednej ze szczelin strzałkowych strzegących wejścia, jak opisano w obszarze Z1. W parapecie biegnącym pod szczelinami strzałkowymi znajduje się dźwignia otwierająca podwójne drzwi. Dźwignia znajduje się bezpośrednio nad drzwiami.
 
-​￼￼￼Z3 mess hall - jadalnia
+####​ Z3 mess hall - jadalnia
 >￼>￼ Zabarwiona na niebiesko lawa przepływa przez geometryczne wyżeźbienua biegnące wzdłuż górnych krawędzi ścian, zalewając pomieszczenie niesamowitym światłem. Przez całą długość pomieszczenia rozciągają się trzy prostokątne kamienne stoły wraz z kilkoma zestawami kamiennych ławek. Przy tych stołach siedzi garstka goblinów i wpycha sobie do ust białą, ziarnistą owsiankę.
 >Z jednej strony pokoju okno zapewnia widok na kuchnię placówki.
 
@@ -66,7 +66,7 @@ Jeśli zauważą intruza w jadalni, gobliny wpadają w panikę i atakują. Gobli
 
 Postać może próbować powstrzymać gobliny przed atakiem, wykonując test Charyzmy o ST 13 (Zastraszanie lub Perswazja). Po pomyślnym teście gobliny przestają walczyć, ale zachowują ostrożność w stosunku do drużyny. Następnie gobliny próbują zawrzeć umowę z postaciami, pozwalając drużynie przejść przez placówkę, jeśli zajmą się potworami nawiedzającymi kuźnię placówki (obszar Z7).
 
-Z4: Łóżka
+#### Z4: Łóżka
  Drzwi do pryczy są otwarte i uchylone.
 
  >>Chrapanie wypełnia ten pokój.  Pod ścianami stoi mnóstwo brudnych łóżek piętrowych z pomiętą pościelą.  Ciemny otwór w ścianie zachodniej ukazuje pusty szyb otoczony metalową kratownicą.
@@ -83,14 +83,14 @@ Z4: Łóżka
 
  Po naprawie winda porusza się w sposób ciągły pomiędzy pryczami a tunelami górniczymi, z 1-minutowym postojem w każdym miejscu.
 
-Z5: Latryny
+#### Z5: Latryny
  >>Z tych latryn unosi się smród nieczystości.  Ściany są tutaj wyłożone długimi drewnianymi ławkami z równomiernie odległymi otworami, które prowadzą do dużego rowu.  Na środku pomieszczenia znajduje się długa rynna wypełniona mętną wodą.
 
  Odpady z latryn uległy tu stagnacji.
 
  Tajemne drzwi.  Postacie posiadające pasywny wynik Mądrości (Percepcji) wynoszący 13 lub więcej zauważają lekkie wgłębienie w północno-zachodnim narożniku latryny.  Naciśnięcie tego zagłębienia odsłoni wejście do ukrytego gorącego źródła placówki (obszar Z6).
 
-Z6: Gorące źródło
+#### Z6: Gorące źródło
 >> Pośrodku tej komory znajduje się duży, naturalny basen pełen turkusowej wody.  Para unosi się nad powierzchnią wody i unosi do otworu wentylacyjnego w suficie jaskini.  Sama woda mieni się zachęcającym, spokojnym blaskiem.
 
  Gorące źródło ma magiczne właściwości regenerujące, z których korzystali starożytni duergarowie zamieszkujący placówkę.  Wejście zostało zapieczętowane przez łupieżców umysłów (którzy gardzili gorącym źródłem), ale gobliny odkryły je, chociaż wejście jest nadal ukryte w obszarze Z5.
@@ -99,7 +99,7 @@ Z6: Gorące źródło
 
  Kratka wentylacyjna.  40 stóp nad powierzchnią gorącego źródła znajduje się otwór wentylacyjny na zboczu góry, który umożliwia ucieczkę pary.  Postacie mogą wykorzystać ten otwór wentylacyjny jako alternatywne wyjście lub wejście do Zacisza Zorzuli.  Aby wspiąć się do otworu wentylacyjnego i wejść do niego, konieczne jest pomyślne zaliczenie testu Siły (Atletyka) o ST 18.
 
-Z7: Przejrzyj Kuźnię
+#### Z7: Przejrzyj Kuźnię
  > NIEUmarli rzemieślnicy naśladują zadania, których podjęli się za życia.  SĄ WROGLI WOBEC KAŻDEGO, KTÓRZY IM PRZESZKADZAJĄ
  Gobliny Sawplee zabarykadowały wejście do kuźni, ponieważ obawiały się czających się tam potworów.  Postacie, które mają pasywny wynik Mądrości (Percepcji) wynoszący 12 lub więcej, słyszą niski jęk i szuranie kroków tuż za drzwiami.
 
@@ -123,7 +123,7 @@ Z7: Przejrzyj Kuźnię
  Zestaw delikatnych srebrnych karwaszy łuczniczych
 
 
-Z8: Kuchnia
+#### Z8: Kuchnia
  >>Z sufitu tej kuchni zwisają paski niezidentyfikowanego suszonego mięsa i ziół.  Z boku stoi niski, żelazny piec, którego wnętrze płonie od wciąż tlących się węgli.  Na podłodze walają się worki jutowe wypełnione zbożem i warzywami.
 
 >> Zza rogu rozlega się słabe sapanie i widać potężnego borsuka wgryzającego się łapczywie w worek z jedzeniem.  Borsuk patrzy na ciebie, prycha radośnie i życzliwie, po czym wraca do posiłku.
@@ -132,7 +132,7 @@ Z8: Kuchnia
 
  Pewnego dnia Bessie zagrzebała się w placówce przez spiżarnię i od tego czasu jest „najlepszą dziewczyną” enklawy.  Jest przyjazna dla wszystkich i uwielbia głaskanie po brzuchu.
 
-Z9: Spiżarnia
+#### Z9: Spiżarnia
 >> Kamień placówki ustępuje miejsca chłodnej, ubitej ziemi.  Beczki i skrzynie zapełniają przestrzeń, a w powietrzu unosi się gęsty zapach pleśni.  W tylnej części spiżarni wykopano mały tunel.
 
  Większość jedzenia tutaj jest nieświeża i w połowie zjedzona.
@@ -143,7 +143,7 @@ Z9: Spiżarnia
 
  Średnie stworzenie może przeczołgać się przez tunel bez przeciskania się.
 
-Z10: Apartament Kapitana
+#### Z10: Apartament Kapitana
  Ta prywatna sypialnia, niegdyś zarezerwowana dla kapitana wyprawy górniczej, służy obecnie jako osobista kwatera Ruxithida.  Drzwi do apartamentu są zamknięte, ale postać może użyć narzędzi złodziei, aby spróbować wyłamać zamek, po udanym teście Zręczności o ST 15.  Alternatywnie postać może wyważyć drzwi, wykonując udany test Siły (Atletyka) o ST 15.  Ruxithid, znaleziony w Indygo Sanctum w dalszej części tego rozdziału, ma klucz.  Przywódca goblinów nie pozwala innym na dostęp do tego pokoju.
 
  >> W tych pokojach osobistych znajduje się duże, pluszowe łóżko z baldachimem przykryte jedwabną pościelą.  Kamienne półki z książkami i ozdobnymi ceramicznymi słojami ustawiają się wzdłuż ścian, wzdłuż pokrytych kurzem sztandarów haftowanych krasnoludzkimi runami.  W jednym rogu stoi eleganckie mahoniowe biurko, na którym leży mapa i kilka zmiętych notatek.
@@ -179,17 +179,17 @@ Pomoc Hjoldaka.  Hjoldak zna rozkład placówki, łącznie z ukrytymi pomieszcze
  Po wybraniu właściwej sekwencji sekretne drzwi w ścianie otwierają się, odsłaniając obszar Z11.
 
 
-Z11: Krypta
+#### Z11: Krypta
  >>Zatęchłe powietrze w tym skarbcu wskazuje, że nie było ono otwierane od wielu lat.  Wewnątrz znajduje się zakurzony asortyment monet, kamieni szlachetnych i tkanin.
 
  Skarb.  W skarbcu znajduje się mnóstwo starożytnych monet duergarów – 56 sz, 350 sz, 189 sz i 304 sz – a także cztery kawałki jadeitu o wartości 100 sz każdy i jeden duży kamień perydotowy o wartości 500 sz.  Dodatkowo na ścianie starannie złożone są trzy bogato tkane, ale zakurzone gobeliny duergarowe, warte 75 sz każdy, oraz aksamitny brokat o wartości 145 sz.
 
- Z12: Wejście do tuneli górniczych
+ #### Z12: Wejście do tuneli górniczych
  >>W tej małej komorze z ziemi i kamienia znajdują się wejścia do trzech tuneli, prowadzących odpowiednio na północny wschód, wschód i południowy wschód.  Na wyższy poziom prowadzi szyb.
 
  Szyb kopalniany ma długość 30 stóp i prowadzi do prycz placówki (obszar Z4).  Jeśli bohaterowie naprawili windę w pryczach, mogą za jej pomocą przedostać się na poziom placówki.
 
-Z13: Komora konserwacyjna wózka kopalnianego
+#### Z13: Komora konserwacyjna wózka kopalnianego
  >>Wzdłuż tej komory biegnie chwiejny zestaw torów.  Na tych torach stoi nieużywanych pół tuzina zardzewiałych wózków kopalnianych, z wygiętymi kołami i pajęczynami pokrywającymi wózki.  Ziemia jest usiana starożytnymi śmieciami, a otwarte skrzynie wypełnione pokrytymi kurzem narzędziami stoją wzdłuż ścian jaskini.  O te skrzynie opierają się trzy szkielety z rozbitymi i zapadniętymi czaszkami.
 
  Kości są pozostałością trzech duergarów, upiorną pozostałością dawno temu inwazji illithidów.  Postać, która bada ciała i pomyślnie przejdzie test Inteligencji (Arkana) lub Mądrości (Medycyna) o ST 16, zdaje sobie sprawę, że zmiażdżone czaszki wskazują na ekstrakcję mózgu łupieżców umysłów.
@@ -200,7 +200,7 @@ Z13: Komora konserwacyjna wózka kopalnianego
 
  Skarb.  Gobliny splądrowały już woreczki z monetami szkieletów.  Jednakże postać, która pomyślnie przejdzie test Inteligencji (Dochodzenie) o ST 15, może odzyskać parę pokrytych pajęczyną karwaszy szybkości (patrz dodatek B) od jednego z duergarów.
 
-Z14: Kryształowa Jaskinia
+#### Z14: Kryształowa Jaskinia
  >>Tunel otwiera się na wysoką na dwadzieścia stóp, cylindryczną komorę.  Jaskinia wygląda jak wnętrze geody, której ściany są inkrustowane kryształami, które błyszczą i błyszczą.  Tor wózka kopalnianego wije się spiralnie wokół jaskini, po czym zanurza się głębiej w górę.
 
  Trzy gryki kryją się wśród skał i kryształów, czekając na zasadzkę na potencjalną ofiarę.
@@ -215,7 +215,7 @@ Kryształy.  Opalizujące kryształowe iglice pokrywające jaskinię iskrą magi
 
  Wózki kopalniane.  Tor wózka kopalnianego biegnie przez kryształową jaskinię, wchodząc z kopalni klifowej (obszar Z15), a następnie skręcając spiralnie w dół przez jaskinię.  Kiedy wózki kopalniane wjeżdżają do jaskini, zwalniają, ale nie zatrzymują się całkowicie, co pozwala na bezpieczny załadunek materiałów.
 
-Z15: Kopalnia na klifie
+#### Z15: Kopalnia na klifie
  >>Ten wysoki na trzydzieści stóp klif z ciemnego kamienia otaczają trzy poziomy drewnianego rusztowania.  Na najniższym rusztowaniu znajduje się sześć postaci kopiących w skale.  Wzdłuż klifu biegnie podwyższony zestaw chwiejnych torów wózków kopalnianych.
 
  Trzy dzikie upiory popiołu i trzy psioniczne upiory popiołu (patrz dodatek A) zajmują najniższe rusztowanie klifu.  Naśladują pracę górniczą, którą wykonywali za życia, drapiąc skałę w poszukiwaniu cennego materiału.
@@ -224,7 +224,7 @@ Z15: Kopalnia na klifie
 
  Wózki kopalniane.  Wózki kopalniane poruszają się po torach znajdujących się na górnej kondygnacji rusztowania.
 
-Z16: Szambo
+#### Z16: Szambo
  >>Ostry zapach ścieków bombarduje Twoje zmysły.  Tunel otwiera się, ukazując jaskinię zalaną ściekami.  Ociekające stalaktyty częściowo zasłaniają niezdarną masę czarnej chityny i przezroczystej bladej skóry, łapczywie zbierającą ścieki.
 
  Stworzenie jest mutacją otyugh (patrz dodatek A).  Dawno temu duergarscy górnicy schwytali i przywieźli z Podmroku kilka otyughów, aby służyć jako wygodny sposób na pozbycie się odpadów z placówki.  Otyughowie przeżyli atak łupieżców umysłów, nadal żerując na szczątkach i odpadach więźniów ilithidów;  jednakże nieprawidłowa energia emanowana przez łupieżców umysłów wypaczyła otyughów i ich potomków.  Teraz ten zmutowany otyugh obżera się ściekami z enklawy goblinów.
@@ -235,7 +235,7 @@ Z16: Szambo
 
  Skarb.  Półprzezroczysta skóra mutata otyugh zapewnia okno do jego żołądka.  Postacie posiadające pasywny wynik Mądrości (Percepcji) wynoszący 14 lub więcej zauważają błysk opalizującego metalu wirującego w ich wnętrznościach;  jest to świetlisty kilof bojowy (patrz dodatek B), który mutacja otyugh przypadkowo połknął podczas ucztowania na zwłokach goblina.  Magiczny przedmiot można łatwo odzyskać z ciała mutata otyugh, gdy zostanie on zabity.
 
-Z17: Kapliczka Ilsensine
+#### Z17: Kapliczka Ilsensine
  >>W tej rzadkiej jaskini znajduje się posąg bohaterskiego krasnoluda w ceremonialnej zbroi, ale pomnik jest rozbity na duże kawałki.  Odcięta głowa posągu leży na podłodze.  Na podstawie posągu wyryty jest dziwny symbol.  Ikonografię szpecą smugi dziwnego, ciemnego, kapiącego płynu.
 
  Postać, która pomyślnie przejdzie test Inteligencji (Religia) o ST 17, rozpoznaje ikonografię zniszczonej świątyni jako Ilsensine, bóstwa patrona imperium illithidów.  Świątynia została zbudowana na szczycie zniszczonego posągu duergarów i ktoś niedawno ją zniszczył.
@@ -246,7 +246,7 @@ Z17: Kapliczka Ilsensine
 
  Skarb.  Postać, która wejdzie w interakcję z kapliczką i pomyślnie przejdzie test Inteligencji (Dochodzenie) o ST 15, znajdzie w gruzach pierścień osłony umysłu, pozostawiony dawno temu za rządów łupieżców umysłów jako ofiara dla Ilsensine.
 
-Z18: Komora magazynowa
+#### Z18: Komora magazynowa
  >>Stosy skrzyń wypełniają tę komnatę.  Niektóre są do połowy przykryte zakurzonymi plandekami, które ledwo zakrywają rudę, inne zaś są przybite gwoździami.  Skrzypienie metalu odbija się echem od przenośnika wiader, który biegnie od podłogi jaskini do dziury pod sufitem.  Przez północno-zachodni kraniec jaskini przebiegają tory wózków kopalnianych.
 
  >>Masywne, stożkowe żelazne wiertło, którego wnętrze płonie płonącym czerwonym ogniem, szarżuje w twoją stronę z przeszywającym piskiem.
@@ -264,7 +264,7 @@ Z18: Komora magazynowa
 
  Wózki kopalniane.  Przez komorę magazynową przebiega tor wózka kopalnianego.  Wózki kopalniane automatycznie zwalniają – ale nie zatrzymują się całkowicie – po wejściu do komory, umożliwiając bezpieczny załadunek materiałów.
 
-Z19: Przejście przez Sanktuarium
+#### Z19: Przejście przez Sanktuarium
  >>Gęsty żar kłębiącej się lawy poniżej obmywa kamienny most.  Na drugim końcu znajduje się obsydianowa piramida.  Na jego twarzach widnieją płaskorzeźby przedstawiające starożytne krasnoludy ucztujące, świętujące i opiekujące się rannymi.  Jej wierzchołki są wyrzeźbione w skomplikowane geometryczne wzory inkrustowane srebrem.  Przed piramidą znajdują się zagłębione podwójne drzwi.  Powierzchnie drzwi ozdobione są runami i okrągłymi kanałami świecącymi słabo zieloną energią.
 
  Most i półka przed wejściem do sanktuarium znajdują się 20 stóp nad lawą.
