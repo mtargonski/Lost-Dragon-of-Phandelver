@@ -41,6 +41,7 @@ OŚWIETLENIE
 Geometryczne rowki są wyryte w suficie i ścianach placówki. Rowki umożliwiają przepływ lawy i oświetlanie wnętrza placówki przyćmionym niebieskim światłem. O ile nie zaznaczono inaczej, tunele górnicze są ciemne.
 
 ### Lokacje Odpoczynku Zorzuli
+
 ​#### Z1 wejscie
 >￼>￼ Wysokie kamienne podwójne drzwi przed tobą są wolne od ozdób. Wejście strzegą dwie szczeliny strzałkowe, po jednej z każdej strony drzwi i każda na wysokości około 3 metrów nad ziemią
 
