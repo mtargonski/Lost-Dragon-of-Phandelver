@@ -42,7 +42,7 @@ Geometryczne rowki są wyryte w suficie i ścianach placówki. Rowki umożliwiaj
 
 ### Lokacje Odpoczynku Zorzuli
 
-​#### Z1 wejscie
+#### Z1 wejscie
 >￼>￼ Wysokie kamienne podwójne drzwi przed tobą są wolne od ozdób. Wejście strzegą dwie szczeliny strzałkowe, po jednej z każdej strony drzwi i każda na wysokości około 3 metrów nad ziemią
 
 Drzwi są zamknięte, ale nie na klucz. Są za ciężkie żeby otworzyć, chyba że okoly 1 minuty albo jakimś zaklęciem. 
@@ -52,12 +52,12 @@ Szczeliny strzałkowe. Dwóch goblińskich dowódców psi (patrz dodatek A) znaj
 
 Gobliny są ostrożne w stosunku do obcych, ale łatwowierne i mają do Ruxithida żal za to, że postawił je na straży. Postać może przekonać gobliny do otwarcia drzwi albo udanym testem Charyzmy (Oszustwo lub Perswazja) o ST 15, albo łapówką o wartości co najmniej 25 sz. Jeśli bohaterowie grożą przemocą, gobliny atakują. Trzy rundy później przybywają posiłki z obszaru Z3.
 
-​#### Z2 przedsionek
+#### Z2 przedsionek
 >￼>￼ Przyćmione niebieskie światło oświetla wilgotne wnętrze placówki, gdy wzdłuż północnych ścian tego obszaru wznoszą się spiralne schody. Z daleka słychać cichy odgłos rozmów i brzęku naczyń o naczynia.
 
 Po obu stronach drzwi znajdują się cienkie kręcone schody, które wznoszą się do jednej ze szczelin strzałkowych strzegących wejścia, jak opisano w obszarze Z1. W parapecie biegnącym pod szczelinami strzałkowymi znajduje się dźwignia otwierająca podwójne drzwi. Dźwignia znajduje się bezpośrednio nad drzwiami.
 
-####​ Z3 mess hall - jadalnia
+#### Z3 mess hall - jadalnia
 >￼>￼ Zabarwiona na niebiesko lawa przepływa przez geometryczne wyżeźbienua biegnące wzdłuż górnych krawędzi ścian, zalewając pomieszczenie niesamowitym światłem. Przez całą długość pomieszczenia rozciągają się trzy prostokątne kamienne stoły wraz z kilkoma zestawami kamiennych ławek. Przy tych stołach siedzi garstka goblinów i wpycha sobie do ust białą, ziarnistą owsiankę.
 >Z jednej strony pokoju okno zapewnia widok na kuchnię placówki.
 
