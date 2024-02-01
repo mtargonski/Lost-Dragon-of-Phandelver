@@ -258,7 +258,7 @@ Kryształy.  Opalizujące kryształowe iglice pokrywające jaskinię iskrą magi
 
  Dodatkowo wokół komnaty rozmieszczone są trzy mniejsze, zapieczętowane skrzynie.  Każdą skrzynię można otworzyć, wykonując udany test Siły (Atletyka) o ST 12.  Skrzynie te zawierają następujące elementy:
 
- Półprzezroczysty, jasnoniebieski odłamek kryształu z żyłkami w kolorze indygo (klejnot jasności)
+ Półprzezroczysty, jasnoniebieski odłamek kryształu z żyłkami w kolorze indygo (klejnot jasności) - https://www.dndbeyond.com/magic-items/4642-gem-of-brightness
  Cztery duże kawałki niebieskiego kwarcu, warte 30 sz każdy
  Ametyst wielkości pięści o wartości 250 sz
  Przenośnik kubełkowy.  Jeżeli bohaterowie naprawili system przenośników kubełkowych w kuźni (obszar Z7), to za ich pomocą mogą przemieszczać się pomiędzy poziomem kopalni a poziomem placówki.  Postać próbująca jeździć na wiadrach musi odnieść sukces w teście Zręczności (Akrobatyka) o ST 15 lub spaść z wysokości 3 metrów na podłogę komnaty, otrzymując 3 (1k6) obrażeń od tłuczenia.
@@ -266,7 +266,7 @@ Kryształy.  Opalizujące kryształowe iglice pokrywające jaskinię iskrą magi
  Wózki kopalniane.  Przez komorę magazynową przebiega tor wózka kopalnianego.  Wózki kopalniane automatycznie zwalniają – ale nie zatrzymują się całkowicie – po wejściu do komory, umożliwiając bezpieczny załadunek materiałów.
 
 #### Z19: Przejście przez Sanktuarium
- >>Gęsty żar kłębiącej się lawy poniżej obmywa kamienny most.  Na drugim końcu znajduje się obsydianowa piramida.  Na jego twarzach widnieją płaskorzeźby przedstawiające starożytne krasnoludy ucztujące, świętujące i opiekujące się rannymi.  Jej wierzchołki są wyrzeźbione w skomplikowane geometryczne wzory inkrustowane srebrem.  Przed piramidą znajdują się zagłębione podwójne drzwi.  Powierzchnie drzwi ozdobione są runami i okrągłymi kanałami świecącymi słabo zieloną energią.
+ >>Gęsty żar kłębiącej się lawy poniżej obmywa kamienny most.  Na drugim końcu znajduje się obsydianowa piramida.  Na jego ścianach widnieją płaskorzeźby przedstawiające starożytne krasnoludy ucztujące, świętujące i opiekujące się rannymi.  Jej wierzchołki są wyrzeźbione w skomplikowane geometryczne wzory inkrustowane srebrem.  Przed piramidą znajdują się zagłębione podwójne drzwi.  Powierzchnie drzwi ozdobione są runami i okrągłymi kanałami świecącymi słabo zieloną energią.
 
  Most i półka przed wejściem do sanktuarium znajdują się 20 stóp nad lawą.
 

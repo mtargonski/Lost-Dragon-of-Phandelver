@@ -1,3 +1,8 @@
+## potworki
+1. Shield guardian
+2. Ruxithid the chosen
+3. goblin psi brawlers
+
 ## Indigo Sanctum
 W czasach wydobycia duergarów Indygo Sanktuarium Spoczynku Zorzuli służyło jako święta sala.  Ukryte głęboko w zakamarkach góry, Indygo Sanctum było miejscem odpoczynku, odmłodzenia i bezpieczeństwa zarówno dla duergarów, jak i ich sojuszników.
 
